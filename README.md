@@ -49,4 +49,4 @@ Klikasz → odpala się w Colabie → możesz od razu uruchomić kod.
 ## ☕ Kontakt
 
 Masz pytania, uwagi, pomysły?  
-Śmiało: [Twój e-mail / LinkedIn].  
+Śmiało: krzysieknowak1000@gmail.com
